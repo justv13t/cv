@@ -1,3 +1,3 @@
 # Resume
  
-Link: https://justv13t.github.io/resume/
+Link: https://justv13t.github.io/cv/
